@@ -3,7 +3,7 @@ A stunning and surreal digital artwork of a graceful geisha with delicate butter
 
 A medium shot of a teenage girl with black hair and glasses, wearing a white shirt and a blue vest. She is sitting in a café in a forest, with the rain gently falling and the atmosphere slightly dark. She is listening to lofi music and writing in a diary. In the background, there are cafe tables and chairs, and trees. The sky is overcast. The background reveals a city with buildings and the Tokyo Tower. The right top corner of the image contains the text "LOFI". The overall image has a Ghibli-esque atmosphere. 
 
-!{}(https://i1.wp.com/prompts.cfd/image/L4Y5dAtWTuiyyX-GG__M6w.jpg)
+![](https://i1.wp.com/prompts.cfd/image/L4Y5dAtWTuiyyX-GG__M6w.jpg)
 A thought-provoking conceptual art piece by Sozdatel featuring a minimalistic yet exquisite painting of a woman's head. The delicate lines and color palette create an ethereal atmosphere. The broken face reveals a cascade of vibrant wildflowers, seamlessly merging human form with the beauty of nature. The background subtly accentuates the central figure, providing a perfect balance and harmony between the elements. This painting, with its serene and depth-filled aura, masterfully showcases the artist's creative vision and skillful execution. 
 
 ![image](https://github.com/user-attachments/assets/82855ab5-f9e9-47bb-94a9-9d458cfa356f)
